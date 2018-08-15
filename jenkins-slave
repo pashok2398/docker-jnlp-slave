@@ -1,4 +1,7 @@
 #!/usr/bin/env sh
+set -x 
+
+JAVA_HOME="/docker-java-home/"
 
 # The MIT License
 #
